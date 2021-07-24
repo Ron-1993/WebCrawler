@@ -186,4 +186,7 @@ def parseFeedback(id_list, rating):
         time.sleep(2)
 
 
+
+
+
 parseFeedback(parseWholeCategory(), parseItems(parseWholeCategory()))
